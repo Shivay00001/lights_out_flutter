@@ -1,5 +1,7 @@
 # lights_out_flutter
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 A new Flutter project.
 
 ## Getting Started
@@ -21,4 +23,3 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Usage
 Instructions on how to run the project.
-
